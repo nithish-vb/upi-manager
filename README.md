@@ -1,3 +1,3 @@
 # upi-manager
 
-Manages mulit accoount expenses in single app
+Manages mulit accoount expenses in single apps
